@@ -1,0 +1,11 @@
+.bg-img-header{
+    height: 35vh; 
+    background-image: url(https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80); 
+    background-size: cover; 
+    background-position: center;
+}
+
+h1, h2, h3, h4, h5, h6, .btn, ul li {
+    font-family: Poppins!important;
+}
+
